@@ -1,8 +1,8 @@
 .MyCheckList {
     width: 700px;
-    background-color: rgb(198, 203, 203);
-    margin: 20px;
-    padding: 20px;
+    background-color: rgb(212, 218, 218);
+    margin: 18px;
+    padding: 18px;
     display: flex;
     flex-direction: column;
 }

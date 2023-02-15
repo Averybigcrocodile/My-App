@@ -1,0 +1,13 @@
+.MyCheckList {
+    width: 700px;
+    background-color: rgb(198, 203, 203);
+    margin: 20px;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+}
+.MyCheckListText {
+    display: flex;
+    justify-content: center;
+    color: rgb(0, 114, 87);
+}
